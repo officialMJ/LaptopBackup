@@ -1,0 +1,28 @@
+{
+        "idBook": 1,
+        "bookName": "Expert in  Java",
+        "isbn": "123-456-7890",
+        "description": "java learning notes",
+        "author": "Mohit, Vivek"
+    },
+    {
+        "idBook": 2,
+        "bookName": "Advanced in  Java",
+        "isbn": "777-456-7890",
+        "description": "java learning notes",
+        "author": "Mohit"
+    },
+    {
+        "idBook": 3,
+        "bookName": "Learn Linux",
+        "isbn": "999-456-7890",
+        "description": "Linux learning notes",
+        "author": "Vivek"
+    },
+    {
+        "idBook": 4,
+        "bookName": "Advanced Linux",
+        "isbn": "8888-456-7890",
+        "description": "Linux learning notes",
+        "author": "Vivek, Rushabh"
+    }
